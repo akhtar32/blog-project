@@ -1,7 +1,7 @@
 <div class="col-lg-8 oredoo-content">
     <div class="theiaStickySidebar">
         <div class="section-title">
-            <h3>Recent Articles</h3>
+            <h3>Recent Articles Staging</h3>
             <p>Discover the most outstanding articles in all topics of life.</p>
         </div>
         @forelse ($recentposts as $recentpost)
